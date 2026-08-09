@@ -6,7 +6,7 @@
 
 <p>
    
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Graduate)
    
 </p>
 

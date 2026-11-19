@@ -12,7 +12,7 @@
 
 ---
 
-<p>💻 I’m currently studying Specialization in Computer Science at Western University</p>
+<p>💻 I’m currently looking for work as a Specialized Computer Science Graduate from Western University. </p>
 
 
 

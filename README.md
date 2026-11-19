@@ -25,6 +25,30 @@
 <br>
 <br>
 
+---
+
+<h2 align="left">🎮 Hobbies & Interests</h2>
+
+<p>
+🎮 **Gaming:** An avid gamer for over 18 years, with a lifelong passion for video games, PC gaming, and exploring different genres and gaming communities.
+</p>
+
+<p>
+🎨 **Art & Creativity:** I enjoy appreciating artwork, exploring different art styles, and creative expression.
+</p>
+
+<p>
+📚 **Reading:** A big fan of reading manhwa, manga, and exploring different stories and fictional worlds.
+</p>
+
+<p>
+🎬 **Entertainment:** Love watching anime, TV shows, and movies across different genres.
+</p>
+
+<p>
+⚽ **Sports & Fitness:** Enjoy playing sports, staying active, working out, and continuously improving my fitness.
+</p>
+
 <h2 align = "left">📫 My Links:</h3>
 <p align = "left"><a href = "https://www.linkedin.com/in/numan-salahuddin-65124029a/"><img src = "https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:numansalahuddin@yahoo.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
